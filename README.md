@@ -12,14 +12,6 @@ Use this Figma file as a starting point for creating or editing templates:
 
 Export your frames as SVG or PNG at the correct dimensions (see below), then upload them to your device via the template manager app.
 
-### Using These Templates
-
-1. Install and run [remarkable-template-manager](https://github.com/TheBabaYaga/remarkable-template-manager).
-2. Connect your reMarkable device (SSH).
-3. Download the template files you want from this repo (see folder structure below).
-4. In the app, use **Add new template...** and select the SVG or PNG files from the appropriate device folder.
-5. Sync to your device and optionally reboot to see the new templates.
-
 ## Template Specifications
 
 Templates must be **PNG or SVG** with these dimensions:
@@ -30,6 +22,19 @@ Templates must be **PNG or SVG** with these dimensions:
 | reMarkable Pro   | 1620 × 2160 px |
 
 **Filename rules:** Use only letters (a–z, A–Z), numbers (0–9), hyphens (`-`), and underscores (`_`). No spaces or special characters.
+
+## Template Previews
+
+Previews below are from the **reMarkable Pro** set (same templates exist in both device folders).
+
+**PROBLEM-WHY-ROOT-CAUSE**  
+<img src="reMarkable%20Pro/PROBLEM-WHY-ROOT-CAUSE.svg" width="200" alt="PROBLEM-WHY-ROOT-CAUSE" />
+
+**SCRUM-Standup**  
+<img src="reMarkable%20Pro/SCRUM-Standup.svg" width="200" alt="SCRUM-Standup" />
+
+**workout**  
+<img src="reMarkable%20Pro/workout.svg" width="200" alt="workout" />
 
 ## Repository Structure
 
