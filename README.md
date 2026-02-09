@@ -27,13 +27,24 @@ Templates must be **PNG or SVG** with these dimensions:
 
 Previews below are from the **reMarkable Pro** set (same templates exist in both device folders).
 
+**FOCUS**  
+A weekly planning format to clarify priorities and make commitments visible. FOCUS stands for **Fantastic**, **Obstacles**, **Completions**, **Upcoming**, **Support**.
+
+<img src="reMarkable%20Pro/FOCUS.svg" width="200" alt="FOCUS" />
+
 **PROBLEM-WHY-ROOT-CAUSE**  
+A structured problem-solving / retrospective template to dig into what happened and why, helping you move from symptoms to actionable root causes.
+
 <img src="reMarkable%20Pro/PROBLEM-WHY-ROOT-CAUSE.svg" width="200" alt="PROBLEM-WHY-ROOT-CAUSE" />
 
 **SCRUM-Standup**  
+A daily standup notes template for quickly capturing what you did, what you’ll do next, and what’s blocking you (great for team syncs).
+
 <img src="reMarkable%20Pro/SCRUM-Standup.svg" width="200" alt="SCRUM-Standup" />
 
 **workout**  
+A simple workout log for tracking sessions, exercises, and progress over time.
+
 <img src="reMarkable%20Pro/workout.svg" width="200" alt="workout" />
 
 ## Repository Structure
